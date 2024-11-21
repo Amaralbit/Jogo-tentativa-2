@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/poo/Aula06/Aula06.iml" filepath="$PROJECT_DIR$/poo/Aula06/Aula06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo/Aula09/Aula09.iml" filepath="$PROJECT_DIR$/poo/Aula09/Aula09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo/Aula10/Aula10.iml" filepath="$PROJECT_DIR$/poo/Aula10/Aula10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo/Aula11/Aula11.iml" filepath="$PROJECT_DIR$/poo/Aula11/Aula11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo/Aula12/Aula12.iml" filepath="$PROJECT_DIR$/poo/Aula12/Aula12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo/Aula13/Aula13.iml" filepath="$PROJECT_DIR$/poo/Aula13/Aula13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jogo/Jogo.iml" filepath="$PROJECT_DIR$/Jogo/Jogo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo/aula 5/aula 5.iml" filepath="$PROJECT_DIR$/poo/aula 5/aula 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo/aula07/aula07.iml" filepath="$PROJECT_DIR$/poo/aula07/aula07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo/aula4/aula4.iml" filepath="$PROJECT_DIR$/poo/aula4/aula4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo/poo.iml" filepath="$PROJECT_DIR$/poo/poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seinao.iml" filepath="$PROJECT_DIR$/seinao.iml" />
+    </modules>
+  </component>
+</project>
